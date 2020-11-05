@@ -1,0 +1,15 @@
+{
+  "name": "plane_tickets",
+  "version": "1.0.0",
+  "description": "- Module to get prices based on dates (start and end) - Module to compare and choose the cheapeast destination",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^5.3.1"
+  }
+}
